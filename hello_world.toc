@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: hello_world
+## Notes: Shows a message "Hello, World!" on screen.
+## Author: https://github.com/MikeBeloborodov/
+## Version: 0.0.1
+
+hello_world.lua
